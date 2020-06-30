@@ -14,6 +14,9 @@
 	nhecidas, pode-se utilizar a lista de 3000 palavras que está no github do projeto. Uma estratégia que pode-se
 	usar é percorrer 200 palavras por dia que resulta em 15 dias, cada lista é pessoal para cada estudante para 
 	manter o objetivo de aumentar o vocabulário do estudante.
+	
+	o arquivo example.php é apenas uma página do ebook "2018_Book_ResearchMethodsForTheDigitalHu.pdf" que foi 
+	disponibilizado gratuitamente pela editora durante a pandemia do COVID-19
 
 	As dependências são as bibliotecas PyPDF2 e googletrans para isso na linha de comando do seu sistema operacio-
 	nal execute os seguintes comandos:
