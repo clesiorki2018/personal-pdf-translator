@@ -1,4 +1,4 @@
-	Esta ferramenta que está sendo desenvolvida  para ajudar o estudante a dominar o inglês lendo documentos PDFs
+	Esta ferramenta está sendo desenvolvida  para ajudar o estudante a dominar o inglês lendo documentos PDFs
 	originalmente em inglês. O objetivo da ferramenta não é simplesmente traduzir o documento inteiro, o objetivo
 	desta ferramenta é aumentar o vocabulário do estudante pois a ferramenta extrai somente as palavras desconhe-
 	cidas ao estudante e as traduz para que o estudante possa fazer uma rápida consulta sem precisar ficar procu-
