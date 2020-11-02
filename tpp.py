@@ -144,9 +144,9 @@ class TradutorPessoalPdf(object):
             #print(word.origin,word.text)
             self.words_translateds[word.origin] = word.text
             time.sleep(0.1)
-            if count >= 5:
-                print(self.words_translateds)
-                break
+            #if count >= 5:
+                #print(self.words_translateds)
+                #break
 
         
 
